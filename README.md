@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/SahilSharma/SahilSharma/blob/main/laptop_wave.png?raw=true" width="300">
 </p>
-<h1 align="center">Hi <img src="https://github.com/SahilSharma/SahilSharma/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Sahil Sharma</h1>
+<h1 align="center">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Sahil Sharma</h1>
 
 <p align="center" width="150px">Aspiring Software Developer with expertise in Java, SQL, and Backend Development.</p>
 
