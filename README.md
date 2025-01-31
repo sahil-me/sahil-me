@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SahilSharma/SahilSharma/blob/main/laptop_wave.png?raw=true" width="300">
+  <img src="https://github.com/Sahil-me/Sahil-me/blob/main/New.gif?raw=true" width="700">
 </p>
 <h1 align="center">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Sahil Sharma</h1>
 
