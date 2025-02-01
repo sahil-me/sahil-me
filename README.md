@@ -27,6 +27,117 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=000000)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=00A67E)&nbsp;
 
+<br>
+                  
+<h2 align="center">
+    <b>Code of Life&#9660;</b>
+</h2>
+  
+```Java
+public class Life {
+
+    private static boolean alive = true;
+
+    public static void dailyRoutine() {
+        while (alive) {
+            if (isWorkingDay()) {
+                wakeUp();
+                breakfast();
+                code();
+                lunchBreak();
+                relax();
+                spendTimeWithFriends();
+                dinner();
+                codeMore();
+                sleep();
+            } else {
+                learnNewSkills();
+                exploreSideProjects();
+                contributeToOpenSource();
+                haveFun();
+            }
+
+            if (isWeekend()) {
+                weekendActivities();
+                takeABreak();
+            }
+        }
+    }
+
+    public static boolean isWorkingDay() {
+        return true; 
+    }
+
+    public static boolean isWeekend() {
+        return false; 
+    }
+
+    public static void wakeUp() {
+        System.out.println("Waking up...");
+    }
+
+    public static void breakfast() {
+        System.out.println("Having breakfast...");
+    }
+
+    public static void code() {
+        System.out.println("Coding...");
+    }
+
+    public static void lunchBreak() {
+        System.out.println("Lunch break...");
+    }
+
+    public static void relax() {
+        System.out.println("Relaxing...");
+    }
+
+    public static void spendTimeWithFriends() {
+        System.out.println("Spending time with friends...");
+    }
+
+    public static void dinner() {
+        System.out.println("Having dinner...");
+    }
+
+    public static void codeMore() {
+        System.out.println("Coding more...");
+    }
+
+    public static void sleep() {
+        System.out.println("Sleeping...");
+    }
+
+    public static void learnNewSkills() {
+        System.out.println("Learning new skills...");
+    }
+
+    public static void exploreSideProjects() {
+        System.out.println("Exploring side projects...");
+    }
+
+    public static void contributeToOpenSource() {
+        System.out.println("Contributing to open source...");
+    }
+
+    public static void haveFun() {
+        System.out.println("Having fun...");
+    }
+
+    public static void weekendActivities() {
+        System.out.println("Doing weekend activities...");
+    }
+
+    public static void takeABreak() {
+        System.out.println("Taking a break...");
+    }
+
+    public static void main(String[] args) {
+        dailyRoutine();
+    }
+}
+```
+
 ### :link: &nbsp;Connect with me
 
 <p align="left">
