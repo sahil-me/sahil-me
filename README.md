@@ -138,7 +138,7 @@ public class Life {
 }
 ```
 
-### :link: &nbsp;Connect with me
+### :link: &nbsp;Connect with me  <img src="https://github.com/Sahil-me/Sahil-me/blob/main/asyncparrot.gif?raw=true">
 
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/sahil-me"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
