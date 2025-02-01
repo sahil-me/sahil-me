@@ -25,12 +25,14 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=000000)&nbsp;
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=00A67E)&nbsp;
 
 ### :link: &nbsp;Connect with me
 
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/sahil-me"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
-<a href="mailto:Sharmasahil201912@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> 
+<a href="mailto:Sharmasahil201912@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/mesahilsharma"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://leetcode.com/Sahil_Sharma_07/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 <!-- <a href="https://x.com/sahil12_me"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://instagram.com/sahil12.me"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
