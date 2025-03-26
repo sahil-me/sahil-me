@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Sahil Sharma</h1>
 
-<p align="center" width="150px">Aspiring Software Developer with expertise in Java, SQL, and Backend Development.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Aspiring+Software+Developer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
 
 
 
