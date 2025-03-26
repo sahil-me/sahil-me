@@ -140,6 +140,10 @@ public class Life {
 
 ### :link: &nbsp;Connect with me  <img src="https://github.com/Sahil-me/Sahil-me/blob/main/asyncparrot.gif?raw=true">
 
+I'm always open to connecting with like-minded professionals, collaborators, and anyone passionate about technology, software development, or innovation.
+
+Feel free to reach out to me through the following channels:
+
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/sahil-me"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:Sharmasahil201912@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
