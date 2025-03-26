@@ -146,7 +146,7 @@ public class Life {
 
 ### :link: &nbsp;Connect with me  <img src="https://github.com/Sahil-me/Sahil-me/blob/main/asyncparrot.gif?raw=true">
 
-I'm always open to connecting with like-minded professionals, collaborators, and anyone passionate about technology, software development, or innovation.
+I’m always eager to connect with passionate professionals, fellow developers, and innovators who share a love for technology and software development. Let’s collaborate, exchange ideas, and build something amazing together!
 
 Feel free to reach out to me through the following channels:
 
