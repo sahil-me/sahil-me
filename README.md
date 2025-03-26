@@ -1,7 +1,13 @@
+<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma !</h1>
+
 <p align="center">
-  <img src="https://github.com/Sahil-me/Sahil-me/blob/main/New.gif?raw=true" width="700">
+<!--   <img src="https://github.com/Sahil-me/Sahil-me/blob/main/New.gif?raw=true" width="700"> -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
 </p>
-<h1 align="center">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Sahil Sharma</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Aspiring+Software+Developer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
 
