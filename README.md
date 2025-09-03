@@ -17,12 +17,7 @@
 <p align="center"><b>Visitor's Count</b></p>
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/Sahil-me/count.svg" alt="visitor badge"/></p> -->
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=Sahil-me&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil-me" /></p> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahil-me&label=Profile%20Views&color=0e75b6&style=flat" 
-       alt="Sahil-me" 
-       width="200"/>
-</p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Sahil-me&label=Profile%20Views&color=0e75b6&style=flat"alt="Sahil-me"width="200"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-me&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Sahil-me&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-me&theme=chartreuse-dark"></p>
