@@ -25,17 +25,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=000000)&nbsp;
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=00A67E)&nbsp;
-
 <p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="105" height="105"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=4479A1" alt="SQL" width="100" height="105"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot&logoColor=6DB33F" alt="Spring Boot" width="180" height="175"/></a>
