@@ -23,7 +23,13 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-me&theme=chartreuse-dark"></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-me&theme=chartreuse-dark" /></p>
 
-### 🛠 &nbsp;Tech Stack
+
+<br>
+                  
+<h2 align="center">
+    <b>🛠 Tech Stack</b>
+</h2>
+
 
 <p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="105" height="105"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=4479A1" alt="SQL" width="100" height="105"/></a>
@@ -47,7 +53,7 @@
 <br>
                   
 <h2 align="center">
-    <b>Code of Life&#9660;</b>
+    <b>Code of Life &#9660;</b>
 </h2>
   
 ```Java
