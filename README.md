@@ -177,10 +177,7 @@ public class Life {
 &nbsp;
 <a href="https://www.hackerrank.com/profile/Sahil_Sharma_07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="60" width="70" /></a>
 <a href="https://www.scaler.com/academy/profile/bc61740f83ee" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/?size=100&id=GsP9dpq9piub&format=png" alt="Scaler" height="60" width="60" /></a>
-<a href="https://devpost.com/sharmasahil201912?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devpost.svg" alt="Devpost" height="60" width="70" />
-</a>
-
+<a href="https://devpost.com/sahil-me?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devpost.svg" alt="Devpost" height="60" width="70" /></a>
 
 
 <br>
