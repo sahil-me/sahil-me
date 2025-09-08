@@ -170,7 +170,7 @@ public class Life {
 <br>
                   
 <h2 align="left">
-    <b>🧩 Coding Profiles</b>
+    <b>🧩 Coding Profiles </b>
 </h2>
 
 <a href="https://leetcode.com/Sahil_Sharma_07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="80" /></a>
@@ -180,10 +180,18 @@ public class Life {
 <a href="https://devpost.com/sahil-me?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devpost.svg" alt="Devpost" height="60" width="70" /></a>
 
 
-<br>
+<div>  
+    <h2 align=left>☕ Buy Me a Coffee </h2>
+</div>
+<a href="https://bmc.link/sahil_me" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important
+;-webkit-box-shadow: 0px 3px
+ 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+<br> 
                   
 <h2 align="left">
-    <b>:link: &nbsp;Connect with me  <img src="https://github.com/Sahil-me/Sahil-me/blob/main/asyncparrot.gif?raw=true"></b>
+    <b><img src="https://github.com/Sahil-me/Sahil-me/blob/main/asyncparrot.gif?raw=true"> Connect with Me </b>
 </h2>
 
 I’m always eager to connect with passionate professionals, fellow developers, and innovators who share a love for technology and software development. Let’s collaborate, exchange ideas, and build something amazing together!
