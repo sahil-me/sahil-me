@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma !</h1>
+<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma! 👻</h1>
 
 <p align="center">
 <!--   <img src="https://github.com/Sahil-me/Sahil-me/blob/main/New.gif?raw=true" width="700"> -->
@@ -9,7 +9,7 @@
 </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Aspiring+Software+Developer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Software+Developer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
 
 
 
@@ -30,29 +30,38 @@
     <b>🛠 Tech Stack</b>
 </h2>
 
-<p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="115" height="95"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=4479A1" alt="SQL" width="115" height="100"/></a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=59666C" alt="Hibernate" width="180" height="175"/></a>
+<p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="120" height="100"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="150" height="160"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="210" height="240"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="190" height="200"/></a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=59666C" alt="Hibernate" width="190" height="185"/></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=C71A36" alt="Maven" width="140" height="165"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot&logoColor=6DB33F" alt="Spring Boot" width="200" height="185"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" width="80" height="80"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" width="95" height="80"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" width="141" height="171"/></a>
 <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL Workbench" width="280" height="250"/></a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" width="235" height="250"/></a>
+<img src="https://img.shields.io/badge/-MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL Workbench" width="280" height="260"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" width="160" height="175"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA" width="200" height="220"/></a>
-<a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-StackOverflow-05122A?style=flat&logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow" width="220" height="260" /></a>  
-<a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=00A67E" alt="ChatGPT" width="160" height="155"/></a>
-<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Claude%20AI-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMiwxMikiPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CiAgICA8cmVjdCB4PSItMSIgeT0iLTgiIHdpZHRoPSIyIiBoZWlnaHQ9IjYiIGZpbGw9IiNGRjY2MDAiIHJ4PSIxIiB0cmFuc2Zvcm09InJvdGF0ZSg2MCkiLz4KICAgIDxyZWN0IHg9Ii0xIiB5PSItOCIgd2lkdGg9IjIiIGhlaWdodD0iNiIgZmlsbD0iI0ZGNjYwMCIgcng9IjEiIHRyYW5zZm9ybT0icm90YXRlKDkwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMTUwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMTgwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMjEwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMjQwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMjcwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMzAwKSIvPgogICAgPHJlY3QgeD0iLTEiIHk9Ii04IiB3aWR0aD0iMiIgaGVpZ2h0PSI2IiBmaWxsPSIjRkY2NjAwIiByeD0iMSIgdHJhbnNmb3JtPSJyb3RhdGUoMzMwKSIvPgogICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjIiIGZpbGw9IiNGRjY2MDAiLz4KICA8L2c+Cjwvc3ZnPgo=&logoColor=white" alt="Claude AI" width="175" height="195"/></a>
+<a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-StackOverflow-05122A?style=flat&logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow" width="220" height="260" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai&logoColor=white" alt="OpenAI" width="151" height="181"/></a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion&logoColor=FFFFFF" alt="Notion" width="135" height="168"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" alt="Figma" width="131" height="135"/></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=00C4CC" alt="Canva" width="136" height="145"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" width="131" height="141"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" width="134" height="146"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2CA5E0" alt="Docker" width="160" height="165"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" width="220" height="195"/></a>
-<a href="https://microservices.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Microservices-05122A?style=flat&logoColor=white" alt="Microservices" width="200" height="195"/></a>
+<a href="https://microservices.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Microservices-05122A?style=flat&logoColor=white" alt="Microservices" width="205" height="200"/></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka" width="245" height="260"/></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=white" alt="JUnit" width="131" height="161"/></a>
+<a href="https://testng.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng&logoColor=white" alt="TestNG" width="126" height="171"/></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=white" alt="Selenium" width="195" height="210"/></a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JMeter-05122A?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" width="160" height="180"/></a>
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" width="205" height="220"/></a>
+<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse IDE" width="156" height="181"/></a>
 </p>
 
 
