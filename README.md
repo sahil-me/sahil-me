@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma! 👻</h1>
+<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma!👻</h1>
 
 <p align="center">
 <!--   <img src="https://github.com/Sahil-me/Sahil-me/blob/main/New.gif?raw=true" width="700"> -->
