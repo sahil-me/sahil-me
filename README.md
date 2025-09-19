@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma! 👻</h1>
 
+[![Pull Shark Guide](https://img.shields.io/badge/Guide-Pull--Shark-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/pull-shark-badge)
 [![YOLO Guide](https://img.shields.io/badge/Guide-YOLO-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/yolo-badge)
 
 <p align="center">
