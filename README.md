@@ -211,7 +211,7 @@ I’m always eager to connect with passionate professionals, fellow developers, 
 Feel free to reach out to me through the following channels:
 
 <p align="left">
-<a href="mailto:Sharmasahil201912@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:Sahilsharma.dev25@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/mesahilsharma"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sahil-me"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://x.com/thealgoeye"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
