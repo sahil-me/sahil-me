@@ -12,7 +12,7 @@
 </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Software+Developer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Software+Engineer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
 
 
 
