@@ -2,6 +2,7 @@
 
 [![Pull Shark Guide](https://img.shields.io/badge/Guide-Pull--Shark-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/pull-shark-badge)
 [![YOLO Guide](https://img.shields.io/badge/Guide-YOLO-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/yolo-badge)
+[![Pair Extraordinaire Guide](https://img.shields.io/badge/Guide-Pair--Extraordinaire-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/pair-extraordinaire-badge)
 
 <p align="center">
 <!--   <img src="https://github.com/Sahil-me/Sahil-me/blob/main/New.gif?raw=true" width="700"> -->
