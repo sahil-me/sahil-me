@@ -214,7 +214,6 @@ Feel free to reach out to me through the following channels:
 <p align="left">
 <a href="mailto:Sahilsharma.dev25@zohomail.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/mesahilsharma"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sahil-me"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://x.com/thealgoeye"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://medium.com/@sahil-me" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://stackoverflow.com/users/23244395/sahil-sharma" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack%20Overflow-23244395-F47F24?logo=stackoverflow&style=for-the-badge" alt="Sahil Sharma on Stack Overflow" /></a>
