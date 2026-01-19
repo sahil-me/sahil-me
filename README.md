@@ -71,7 +71,7 @@
 </p>
 
 
-<br>
+<!-- <br>
                   
 <h2 align="center">
     <b>Code of Life &#9660;</b>
@@ -180,7 +180,7 @@ public class Life {
         dailyRoutine();
     }
 }
-```
+``` -->
 
 <br>
                   
