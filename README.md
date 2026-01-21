@@ -33,10 +33,12 @@
 <br>
                   
 <h2 align="center">
-    <b>🛠 Tech Stack</b>
+    <b>🛠 Tech & Tools Stack</b>
 </h2>
 
-<p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="120" height="100"/></a>
+
+
+<!-- <p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="120" height="100"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="150" height="160"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="210" height="240"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="190" height="200"/></a>
@@ -68,7 +70,7 @@
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JMeter-05122A?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" width="160" height="180"/></a>
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" width="205" height="220"/></a>
 <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse IDE" width="156" height="181"/></a>
-</p>
+</p> -->
 
 
 <!-- <br>
