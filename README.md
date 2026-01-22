@@ -32,7 +32,9 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=🛠+Tech+and+Tools+Stack)](https://git.io/typing-svg)
-                  
+
+---
+
 <!-- <h2 align="center">
     <b>🛠 Tech & Tools Stack</b>
 </h2> -->
