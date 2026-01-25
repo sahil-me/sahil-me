@@ -48,6 +48,7 @@
 <img src="https://skillicons.dev/icons?i=selenium" />
 
 ### 🧰 Build & Dependency Management
+<img src="https://skillicons.dev/icons?i=maven" />
 
 
 
