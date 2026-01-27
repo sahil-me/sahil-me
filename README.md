@@ -51,6 +51,7 @@
 <img src="https://skillicons.dev/icons?i=maven" />
 
 ### 🔄 Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 
 
