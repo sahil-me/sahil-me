@@ -59,6 +59,9 @@
 ### ☁️ Cloud Technologies
 <img src="https://skillicons.dev/icons?i=aws" />
 
+### 🚀 CI / CD
+
+
 
 <!-- <p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518"alt="Java" width="120" height="100"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="150" height="160"/></a>
