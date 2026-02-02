@@ -60,6 +60,7 @@
 <img src="https://skillicons.dev/icons?i=aws" />
 
 ### 🚀 CI / CD
+<img src="https://skillicons.dev/icons?i=jenkins" />
 
 
 
