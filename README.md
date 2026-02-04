@@ -63,6 +63,7 @@
 <img src="https://skillicons.dev/icons?i=jenkins" />
 
 ### 🚢 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
 
 
