@@ -45,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=selenium" />
 
 ### 🧰 Build & Dependency Management
-<img src="https://skillicons.dev/icons?i=maven" />
+<img src="https://skillicons.dev/icons?i=maven,gradle" />
 
 ### 🔄 Version Control
 <img src="https://skillicons.dev/icons?i=git,github" />
