@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahil Sharma! 👻</h1>
+<h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm Sahíl Sharma! 👻</h1>
 
 [![Pull Shark Guide](https://img.shields.io/badge/Guide-Pull--Shark-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/pull-shark-badge)
 [![YOLO Guide](https://img.shields.io/badge/Guide-YOLO-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/yolo-badge)
@@ -27,7 +27,7 @@
 
 
 [![Project CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
-
+[![Project Game Tic Tac Toe](https://img.shields.io/badge/Project-Game%20Tic%20Tac%20Toe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Game_tic-tac-toe)
 
 ---
 
