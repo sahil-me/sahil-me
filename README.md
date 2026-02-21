@@ -25,12 +25,14 @@
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-me&theme=chartreuse-dark" /></p>
 <br>
 
+
+[![Project CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
+
+
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=🛠+Tech+and+Tools+Stack)](https://git.io/typing-svg)
 
-
-<!-- <h2 align="center">
-    <b>🛠 Tech & Tools Stack</b>
-</h2> -->
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java" />
