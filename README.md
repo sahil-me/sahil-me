@@ -14,7 +14,8 @@
 </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Software+Engineer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=Software+Engineer;Expertise+in+Backend+Development)](https://git.io/typing-svg)
 
 
 <p align="center"><b>Visitor's Count</b></p>
@@ -28,10 +29,11 @@
 
 [![Project CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
 [![Project Game Tic Tac Toe](https://img.shields.io/badge/Project-Game%20Tic%20Tac%20Toe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Game_tic-tac-toe)
+[![Project OpenStream OTT](https://img.shields.io/badge/Project-OpenStream%20OTT-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=4994&pause=992&center=true&vCenter=true&width=1600&lines=🛠+Tech+and+Tools+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&duration=4994&pause=992&center=true&vCenter=true&width=1800&lines=🛠+Tech+and+Tools+Stack)](https://git.io/typing-svg)
 
 
 ### 💻 Programming Languages
