@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 ### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://skillicons.dev/icons?i=selenium,hibernate" />
 
 ### 🧰 Build & Dependency Management
 <img src="https://skillicons.dev/icons?i=maven,gradle" />
