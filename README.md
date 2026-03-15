@@ -64,6 +64,9 @@
 ### 🚢 Containers & Orchestration
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
+### 📡 Messaging & Event Streaming
+<img src="https://skillicons.dev/icons?i=kafka,zookeeper" />
+
 ### 🖥️ IDEs
 <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" />
 
