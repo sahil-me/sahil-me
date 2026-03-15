@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=java" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### ⚙️ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=selenium,hibernate,spring" />
