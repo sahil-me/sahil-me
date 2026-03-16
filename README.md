@@ -38,7 +38,7 @@
 
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,javascript" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
