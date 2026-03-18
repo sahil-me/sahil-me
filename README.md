@@ -52,7 +52,7 @@
 ### 🔄 Version Control
 <img src="https://skillicons.dev/icons?i=git,github" />
 
-### 🌐 API & Integration
+### 🔗 API & Integration
 <img src="https://skillicons.dev/icons?i=postman" />
 
 ### ☁️ Cloud Technologies
