@@ -40,6 +40,9 @@
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,javascript,python" />
 
+### 🌐 Web Technologies
+
+
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
