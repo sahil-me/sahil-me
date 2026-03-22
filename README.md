@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=java,javascript,python" />
 
 ### 🌐 Web Technologies
-<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
