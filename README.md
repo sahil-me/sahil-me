@@ -114,6 +114,7 @@ Feel free to reach out through the following channels:
 <a href="https://medium.com/@sahil-me" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://stackoverflow.com/users/23244395/sahil-sharma" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack%20Overflow-23244395-F47F24?logo=stackoverflow&style=for-the-badge" alt="Sahil Sharma on Stack Overflow" /></a>
 <a href="https://www.quora.com/profile/Sah%C3%ADl-Sharma" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Quora-Sah%C3%ADl%20Sharma-B92B27?logo=quora&style=for-the-badge" alt="Sahil Sharma on Quora" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 
