@@ -30,10 +30,11 @@
 [![ProductService](https://img.shields.io/badge/Project-Product%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/ProductService)
 [![PaymentService](https://img.shields.io/badge/Project-Payment%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/PaymentService)
 [![EmailService](https://img.shields.io/badge/Project-Email%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/EmailService)
-[![Project Tic Tac Toe](https://img.shields.io/badge/Project-Tic%20Tac%20Toe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Game_tic-tac-toe)
-[![Project ParkingLot](https://img.shields.io/badge/Project-Parking%20Lot-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Parkinglot)
-[![Project CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
-[![Project OpenStream OTT](https://img.shields.io/badge/Project-OpenStream%20OTT-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
+[![PantryPal-Recipe](https://img.shields.io/badge/Project-PantryPal%20Recipe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
+[![OpenStream OTT](https://img.shields.io/badge/Project-OpenStream%20OTT-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
+[![Tic Tac Toe](https://img.shields.io/badge/Project-Tic%20Tac%20Toe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Game_tic-tac-toe)
+[![ParkingLot](https://img.shields.io/badge/Project-Parking%20Lot-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Parkinglot)
+[![CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
 
 ---
 
