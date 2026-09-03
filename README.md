@@ -26,16 +26,28 @@
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-me&theme=chartreuse-dark" /></p>
 <br>
 
+### Backend Projects
 [![UserService](https://img.shields.io/badge/Project-User%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/UserService)
 [![ProductService](https://img.shields.io/badge/Project-Product%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/ProductService)
 [![PaymentService](https://img.shields.io/badge/Project-Payment%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/PaymentService)
 [![EmailService](https://img.shields.io/badge/Project-Email%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/EmailService)
-[![PantryPal-Recipe](https://img.shields.io/badge/Project-PantryPal%20Recipe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
-[![OpenStream OTT](https://img.shields.io/badge/Project-OpenStream%20OTT-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
-[![ShoppingAgent](https://img.shields.io/badge/Project-Shopping%20Agent-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/ShoppingAgent)
 [![Tic Tac Toe](https://img.shields.io/badge/Project-Tic%20Tac%20Toe-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Game_tic-tac-toe)
 [![ParkingLot](https://img.shields.io/badge/Project-Parking%20Lot-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Parkinglot)
 [![CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
+
+### Test Automation Projects
+[![Project Name](https://img.shields.io/badge/PROJECT-Project%20Name-F59E0B?style=for-the-badge&logo=github)](REPO_URL)
+
+### AI Projects
+[![PantryPal Recipe](https://img.shields.io/badge/PROJECT-PantryPal%20Recipe-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
+[![OpenStream OTT](https://img.shields.io/badge/PROJECT-OpenStream%20OTT-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
+[![Shopping Agent](https://img.shields.io/badge/PROJECT-Shopping%20Agent-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/ShoppingAgent)
+
+### Google Labs
+[![Location Intelligence Agent](https://img.shields.io/badge/LAB-Location%20Intelligence%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/Location-Intelligence-Agent)
+[![CoffeeShop AI Barista](https://img.shields.io/badge/LAB-CoffeeShop%20AI%20Barista-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-AIBarista)
+[![DataAgent](https://img.shields.io/badge/LAB-DataAgent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/DataAgent)
+[![CoffeeShop Manager Assistant](https://img.shields.io/badge/LAB-CoffeeShop%20ManagerAssistant-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-ManagerAssistant)
 
 ---
 
