@@ -46,8 +46,8 @@
 ### Google Labs
 [![Location Intelligence Agent](https://img.shields.io/badge/LAB-Location%20Intelligence%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/Location-Intelligence-Agent)
 [![CoffeeShop AI Barista](https://img.shields.io/badge/LAB-CoffeeShop%20AI%20Barista-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-AIBarista)
-[![DataAgent](https://img.shields.io/badge/LAB-DataAgent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/DataAgent)
-[![CoffeeShop Manager Assistant](https://img.shields.io/badge/LAB-CoffeeShop%20ManagerAssistant-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-ManagerAssistant)
+[![Data Agent](https://img.shields.io/badge/LAB-Data%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/DataAgent)
+[![CoffeeShop Manager Assistant](https://img.shields.io/badge/LAB-CoffeeShop%20Manager%20Assistant-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-ManagerAssistant)
 
 ---
 
