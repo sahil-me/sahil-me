@@ -26,7 +26,9 @@
 <p align="center"><img src="https://github-readme-activity-graphKayan.vercel.app/graph?username=Sahil-me&theme=chartreuse-dark" /></p>
 <br>
 
-### Backend Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&duration=4994&pause=992&center=true&vCenter=true&width=1800&lines=💼+Projects)](https://git.io/typing-svg)
+
+### 💻 Backend Projects
 [![UserService](https://img.shields.io/badge/Project-User%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/UserService)
 [![ProductService](https://img.shields.io/badge/Project-Product%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/ProductService)
 [![PaymentService](https://img.shields.io/badge/Project-Payment%20Service-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/PaymentService)
@@ -35,15 +37,15 @@
 [![ParkingLot](https://img.shields.io/badge/Project-Parking%20Lot-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Parkinglot)
 [![CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
 
-### Test Automation Projects
+### ⚙️ Test Automation Projects
 [![Project Name](https://img.shields.io/badge/PROJECT-Project%20Name-F59E0B?style=for-the-badge&logo=github)](REPO_URL)
 
-### AI Projects
+### 🤖 AI Projects
 [![PantryPal Recipe](https://img.shields.io/badge/PROJECT-PantryPal%20Recipe-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
 [![OpenStream OTT](https://img.shields.io/badge/PROJECT-OpenStream%20OTT-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
 [![Shopping Agent](https://img.shields.io/badge/PROJECT-Shopping%20Agent-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/ShoppingAgent)
 
-### Google Labs
+### 🏷 Google Labs
 [![Location Intelligence Agent](https://img.shields.io/badge/LAB-Location%20Intelligence%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/Location-Intelligence-Agent)
 [![CoffeeShop AI Barista](https://img.shields.io/badge/LAB-CoffeeShop%20AI%20Barista-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-AIBarista)
 [![Data Agent](https://img.shields.io/badge/LAB-Data%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/DataAgent)
