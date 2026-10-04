@@ -24,21 +24,6 @@
 <p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api?username=Sahil-me&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" /></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-me&theme=chartreuse-dark"></p>
 <p align="center"><img src="https://github-readme-activity-graphKayan.vercel.app/graph?username=Sahil-me&theme=chartreuse-dark" /></p>
-
-## 👻 Pac-Man Contribution Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/sahil-me/sahil-me/output/pacman-contribution-graph.svg">
-</picture>
-
-## 🐍 GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sahil-me/sahil-me/output/github-contribution-grid-snake.svg">
-</picture>
-
 <br>
 
 ### Backend Projects
@@ -145,3 +130,17 @@ Feel free to reach out through the following channels:
 <a href="https://www.quora.com/profile/Sah%C3%ADl-Sharma" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Quora-Sah%C3%ADl%20Sharma-B92B27?logo=quora&style=for-the-badge" alt="Sahil Sharma on Quora" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+## 👻 Pac-Man Contribution Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/sahil-me/sahil-me/output/pacman-contribution-graph.svg">
+</picture>
+
+## 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil-me/sahil-me/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sahil-me/sahil-me/output/github-contribution-grid-snake.svg">
+</picture>
