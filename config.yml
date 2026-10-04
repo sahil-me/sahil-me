@@ -1,8 +1,0 @@
-themes:
-  enabled:
-    - neon
-
-stats_generation:
-  mask_private_repos: "true"
-  include_forked_repos: "false"
-  exclude_archive_repos: "true"
