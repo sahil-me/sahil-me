@@ -20,6 +20,11 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Sahil-me&label=Profile%20Views&color=0e75b6&style=flat"alt="Sahil-me"width="200"/></p>
+<p align="center">
+  <a href="https://github.com/sahil-me/sahil-me/blob/main/PROFILE.md">
+    <img src="./profile-card.svg" width="260" alt="Profile Card">
+  </a>
+</p>
 <p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api/top-langs/?username=Sahil-me&layout=compact&hide=TSQL&theme=chartreuse-dark" /></p>
 <p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api?username=Sahil-me&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" /></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-me&theme=chartreuse-dark"></p>
