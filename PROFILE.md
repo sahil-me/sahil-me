@@ -9,4 +9,4 @@
   <img alt="sahil-me's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-[← Back to Profile](README.md)
+[← Back to Profile](https://github.com/sahil-me)
