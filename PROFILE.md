@@ -1,4 +1,4 @@
-# 👤 Profile Card
+# 👤 PROFILE CARD 
 
 [← Back to Profile](https://github.com/sahil-me)
 
