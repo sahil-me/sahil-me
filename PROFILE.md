@@ -1,7 +1,6 @@
 # 👤 Profile Card
 
-> [!NOTE]
-> An alternative visual profile card for my GitHub profile.
+[← Back to Profile](https://github.com/sahil-me)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
@@ -9,4 +8,5 @@
   <img alt="sahil-me's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-[← Back to Profile](https://github.com/sahil-me)
+> [!NOTE]
+> An alternative visual profile card for my GitHub profile.
