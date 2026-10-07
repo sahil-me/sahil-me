@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+  <defs>
+    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Racing-game style fast-forward motion -->
+    <style>
+      .boost-arrow {
+        fill: #39FF14;
+        filter: url(#glow);
+      }
+
+      .boost-1 {
+        animation: boost1 1.05s linear infinite;
+      }
+      .boost-2 {
+        animation: boost2 1.05s linear infinite;
+      }
+      .boost-3 {
+        animation: boost3 1.05s linear infinite;
+      }
+
+      @keyframes boost1 {
+        0%   { transform: translateX(-18px); opacity: 0; }
+        10%  { opacity: 0.35; }
+        45%  { opacity: 1; }
+        78%  { opacity: 1; }
+        100% { transform: translateX(48px); opacity: 0; }
+      }
+
+      @keyframes boost2 {
+        0%   { transform: translateX(-18px); opacity: 0; }
+        10%  { opacity: 0.15; }
+        45%  { opacity: 0.85; }
+        78%  { opacity: 1; }
+        100% { transform: translateX(48px); opacity: 0; }
+      }
+
+      @keyframes boost3 {
+        0%   { transform: translateX(-18px); opacity: 0; }
+        10%  { opacity: 0.08; }
+        45%  { opacity: 0.65; }
+        78%  { opacity: 0.95; }
+        100% { transform: translateX(48px); opacity: 0; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .boost-arrow { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="584" height="104" rx="12"
+        fill="#050805" stroke="#39FF14" stroke-width="5" filter="url(#glow)"/>
+
+  <path d="M72 8 L120 60 L72 112 L8 112 L8 8 Z"
+        fill="#071007" stroke="#39FF14" stroke-width="5"/>
+
+  <!-- neutral user icon -->
+  <circle cx="55" cy="43" r="14" fill="#D0D0D0"/>
+  <path d="M30 88c2-18 12-27 25-27s23 9 25 27z" fill="#D0D0D0"/>
+
+  <text x="150" y="74" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif"
+        font-size="30" font-weight="700" letter-spacing="4">PROFILE CARD</text>
+
+  <!-- Fast-forward / racing boost arrows -->
+  <g transform="translate(500 38)">
+    <g class="boost-arrow boost-3">
+      <path d="M0 0 L13 22 L0 44 L-7 44 L6 22 L-7 0 Z"/>
+      <path d="M20 0 L33 22 L20 44 L13 44 L26 22 L13 0 Z"/>
+    </g>
+
+    <g class="boost-arrow boost-2">
+      <path d="M0 0 L13 22 L0 44 L-7 44 L6 22 L-7 0 Z"/>
+      <path d="M20 0 L33 22 L20 44 L13 44 L26 22 L13 0 Z"/>
+    </g>
+
+    <g class="boost-arrow boost-1">
+      <path d="M0 0 L13 22 L0 44 L-7 44 L6 22 L-7 0 Z"/>
+      <path d="M20 0 L33 22 L20 44 L13 44 L26 22 L13 0 Z"/>
+    </g>
+  </g>
+</svg>
