@@ -55,6 +55,7 @@
 [![CoffeeShop AI Barista](https://img.shields.io/badge/LAB-CoffeeShop%20AI%20Barista-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-AIBarista)
 [![Data Agent](https://img.shields.io/badge/LAB-Data%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/DataAgent)
 [![CoffeeShop Manager Assistant](https://img.shields.io/badge/LAB-CoffeeShop%20Manager%20Assistant-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-ManagerAssistant)
+[![Paint Agent](https://img.shields.io/badge/LAB-Paint%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/paint-agent)
 
 ---
 
