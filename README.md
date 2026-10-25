@@ -49,6 +49,7 @@
 [![PantryPal Recipe](https://img.shields.io/badge/PROJECT-PantryPal%20Recipe-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
 [![OpenStream OTT](https://img.shields.io/badge/PROJECT-OpenStream%20OTT-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
 [![Shopping Agent](https://img.shields.io/badge/PROJECT-Shopping%20Agent-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/ShoppingAgent)
+[![Fantasy Character Generator](https://img.shields.io/badge/PROJECT-Fantasy%20Character%20Generator-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/fantasy-character-generator)
 
 ### 🏷 Google Labs
 [![Location Intelligence Agent](https://img.shields.io/badge/LAB-Location%20Intelligence%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/Location-Intelligence-Agent)
