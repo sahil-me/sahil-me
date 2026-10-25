@@ -43,13 +43,13 @@
 [![CalculatorApp](https://img.shields.io/badge/Project-Calculator%20App-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/Calculator_App)
 
 ### ⚙️ Test Automation Projects
-[![Project Name](https://img.shields.io/badge/PROJECT-Project%20Name-F59E0B?style=for-the-badge&logo=github)](REPO_URL)
+[![PROJECT NAME](https://img.shields.io/badge/PROJECT-PROJECT%20NAME-14B8A6?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
 
 ### 🤖 AI Projects
-[![PantryPal Recipe](https://img.shields.io/badge/PROJECT-PantryPal%20Recipe-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
-[![OpenStream OTT](https://img.shields.io/badge/PROJECT-OpenStream%20OTT-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
-[![Shopping Agent](https://img.shields.io/badge/PROJECT-Shopping%20Agent-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/ShoppingAgent)
-[![Fantasy Character Generator](https://img.shields.io/badge/PROJECT-Fantasy%20Character%20Generator-A855F7?style=for-the-badge&logo=github)](https://github.com/sahil-me/fantasy-character-generator)
+[![PantryPal Recipe](https://img.shields.io/badge/PROJECT-PantryPal%20Recipe-00CFFF?style=for-the-badge&logo=github)](https://github.com/sahil-me/PantryPal-Recipe)
+[![OpenStream OTT](https://img.shields.io/badge/PROJECT-OpenStream%20OTT-00CFFF?style=for-the-badge&logo=github)](https://github.com/sahil-me/free-iptv-aggregator)
+[![Shopping Agent](https://img.shields.io/badge/PROJECT-Shopping%20Agent-00CFFF?style=for-the-badge&logo=github)](https://github.com/sahil-me/ShoppingAgent)
+[![Fantasy Character Generator](https://img.shields.io/badge/PROJECT-Fantasy%20Character%20Generator-00CFFF?style=for-the-badge&logo=github)](https://github.com/sahil-me/fantasy-character-generator)
 
 ### 🏷 Google Labs
 [![Location Intelligence Agent](https://img.shields.io/badge/LAB-Location%20Intelligence%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/Location-Intelligence-Agent)
