@@ -58,6 +58,7 @@
 [![CoffeeShop Manager Assistant](https://img.shields.io/badge/LAB-CoffeeShop%20Manager%20Assistant-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/CoffeeShop-ManagerAssistant)
 [![Search Agent](https://img.shields.io/badge/LAB-Search%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/search-agent)
 [![Paint Agent](https://img.shields.io/badge/LAB-Paint%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/paint-agent)
+[![Gen Ai Mod App](https://img.shields.io/badge/LAB-GEN%20AI%20MOD%20APP-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/gen-ai-mod-app)
 
 ---
 
