@@ -59,6 +59,7 @@
 [![Search Agent](https://img.shields.io/badge/LAB-Search%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/search-agent)
 [![Paint Agent](https://img.shields.io/badge/LAB-Paint%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/paint-agent)
 [![Gen Ai Mod App](https://img.shields.io/badge/LAB-GEN%20AI%20MOD%20APP-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/gen-ai-mod-app)
+[![LangChain Flutter App](https://img.shields.io/badge/LAB-LANGCHAIN%20FLUTTER%20APP-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/langchain-flutter-app)
 
 ---
 
