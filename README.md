@@ -5,6 +5,12 @@
 [![Pair Extraordinaire Guide](https://img.shields.io/badge/Guide-Pair--Extraordinaire-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/pair-extraordinaire-badge)
 [![Quickdraw Guide](https://img.shields.io/badge/Guide-Quickdraw-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/quickdraw-badge)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-19.11.2026-brightgreen" alt="version: 19.11.2026" /> &nbsp;
+  <a href="https://github.com/sahil-me">
+    <img src="https://img.shields.io/github/followers/sahil-me?label=Follow&style=social" alt="GitHub sahil-me" />
+  </a>
+</p>
 
 <p align="center">
   <picture>
