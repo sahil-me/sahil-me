@@ -6,7 +6,7 @@
 [![Quickdraw Guide](https://img.shields.io/badge/Guide-Quickdraw-informational?style=for-the-badge&logo=github)](https://github.com/sahil-me/quickdraw-badge)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/version-19.11.2026-brightgreen" alt="version: 19.11.2026" /> &nbsp;
+  <img src="https://img.shields.io/badge/version-23.11.2026-brightgreen" alt="version: 23.11.2026" /> &nbsp;
   <a href="https://github.com/sahil-me">
     <img src="https://img.shields.io/github/followers/sahil-me?label=Follow&style=social" alt="GitHub sahil-me" />
   </a>
@@ -66,6 +66,7 @@
 [![Paint Agent](https://img.shields.io/badge/LAB-Paint%20Agent-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/paint-agent)
 [![Gen Ai Mod App](https://img.shields.io/badge/LAB-GEN%20AI%20MOD%20APP-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/gen-ai-mod-app)
 [![LangChain Flutter App](https://img.shields.io/badge/LAB-LANGCHAIN%20FLUTTER%20APP-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/langchain-flutter-app)
+[![Zoo Guide Agent](https://img.shields.io/badge/LAB-ZOO%20GUIDE%20AGENT-34A853?style=for-the-badge&logo=google)](https://github.com/sahil-me/zoo-guide-agent)
 
 ---
 
